@@ -1,2 +1,7 @@
 *.sqlite3
 *.db
+*.png
+*.zip
+cache/
+comunas_extraidas/
+comunas_temp.zip
